@@ -1,5 +1,3 @@
-###### fpdevita.gitgub.io
-
 # Frank P. DeVita
 Current graduate student at the [NYU Center for Bioethics](https://wp.nyu.edu/centerforbioethics/) within the [NYU School of Global Public Health](https://publichealth.nyu.edu/) researching the nature of rationality and decision making from philosophical, neural, clinical, and technological perspectives.
 
