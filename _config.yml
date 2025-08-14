@@ -3,7 +3,4 @@ plugins:
 - jekyll-remote-theme 
 
 title: Frank Peter DeVita
-description: Research and Writing Repository\<br> 
-Bioethics graduate student at [NYU](https://wp.nyu.edu/centerforbioethics/) studying rationality, decision making, and neuroethics.\<br>
-[fpd216@nyu.edu](mailto:fpd216@nyu.edu)\
-[CV](www.google.com)
+description: Research Repository
