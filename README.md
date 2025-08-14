@@ -1,4 +1,4 @@
-#### Bioethics graduate student at [NYU](https://wp.nyu.edu/centerforbioethics/) studying rationality, decision making, and neuroethics.
+#### Bioethics graduate student at [NYU](https://wp.nyu.edu/centerforbioethics/) studying rationality, decision making, neuroethics, and ethivs of emerging technologies.
 
 [fpd216@nyu.edu](mailto:fpd216@nyu.edu)\
 [CV](www.google.com)\
