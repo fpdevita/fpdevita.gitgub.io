@@ -1,10 +1,10 @@
-Bioethics graduate student at [NYU](https://wp.nyu.edu/centerforbioethics/) studying rationality, decision making, and neuroethics.
+### Bioethics graduate student at [NYU](https://wp.nyu.edu/centerforbioethics/) studying rationality, decision making, and neuroethics.
 
 [fpd216@nyu.edu](mailto:fpd216@nyu.edu)\
 [CV](www.google.com)\
 <br>
 
-### Research
+#### Research
 
 **[_On Genetic Enhancement_](www.google.com).** 2025. Self-published.\
 Exploration of the meaning of human enhancement and arguments for and against it, endorsing a conservative view on the elective, non-medical use of genetic technologies.
