@@ -60,5 +60,5 @@ Exigesis of Kant's _Critique of Pure Reason_'s B Deduction as a foundational tex
 ***[Absurdity and the Explanatory Gap.](www.google.com)*** 2012. _[Self-published.](http://dx.doi.org/10.13140/RG.2.2.23759.19361)_\
 Articulates phenomenological and existential perspectives on science's inability to determine causal links between the mind and brain
 
-***[Adderall, Attention, and Ethics of Amphetamine Use.](www.google.com)*** 2012. _The Nerve_ at Boston University. Also _[Self-published](http://dx.doi.org/10.13140/RG.2.2.10855.15524)_\
+***[Adderall, Attention, and Ethics of Amphetamine Use.](www.google.com)*** 2012. [_The Nerve_](https://open.bu.edu/server/api/core/bitstreams/921323c7-1ad1-41b3-a478-8fd58221e321/content) at Boston University. Also _[Self-published](http://dx.doi.org/10.13140/RG.2.2.10855.15524)_\
 Investigation of attention-modulating drugs for medical and enhancement purposes and moral implications.
