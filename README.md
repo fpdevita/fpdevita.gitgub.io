@@ -1,4 +1,4 @@
-# Frank P. DeVita
+## About
 
 Bioethics graduate student at [NYU](https://wp.nyu.edu/centerforbioethics/) studying rationality, decision making, and neuroethics.
 
