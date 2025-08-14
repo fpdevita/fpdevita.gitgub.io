@@ -1,9 +1,3 @@
-Bioethics graduate student at [NYU](https://wp.nyu.edu/centerforbioethics/) studying rationality, decision making, and neuroethics.
-
-[fpd216@nyu.edu](mailto:fpd216@nyu.edu)\
-[CV](www.google.com)\
-<br>
-
 ### Research
 
 **[_On Genetic Enhancement_](www.google.com).** 2025. Self-published.\
