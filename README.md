@@ -1,4 +1,6 @@
-#### Bioethics graduate student at [NYU](https://wp.nyu.edu/centerforbioethics/) studying rationality, decision making, neuroethics, and ethics of emerging technologies.
+#### I'm a graduate student in Bioethics at [NYU](https://wp.nyu.edu/centerforbioethics/) studying rationality, decision making, neuroethics, and ethics of emerging technologies.
+
+Before that I studied Biotechnology at [Columbia](https://www.gsas.columbia.edu/content/biotechnology), and before that [Philosophy](https://www.bu.edu/academics/cas/programs/philosophy/ba/) and [Biology](https://www.bu.edu/academics/cas/programs/biology/ba-cell-molecular-genetics/) at Boston University.
 
 [fpd216@nyu.edu](mailto:fpd216@nyu.edu)\
 [CV](https://fpdevita.github.io/CV/FrankPDeVita8.2025.pdf)\
@@ -36,7 +38,7 @@ Considers the meaning of human nature and identity in the context of the possibi
 ***[Biology, Phenomenology and Identity: Building Interdisciplinary Bridges.](https://fpdevita.github.io/Papers/Philosophy/BuildingBridges.pdf)*** 2016. _[Self-published.](http://dx.doi.org/10.13140/RG.2.2.34648.00001)_\
 Renders of the concept of identity considering its essential biological and experiential aspects. 
 
-***[Navigating the Molecular Reduction of Human Nature.](https://fpdevita.github.io/Papers/Philosophy/MolecularReduction.pdf).*** 2016. _[Self-published.](http://dx.doi.org/10.13140/RG.2.2.27937.11367)_\
+***[Navigating the Molecular Reduction of Human Nature.](https://fpdevita.github.io/Papers/Philosophy/MolecularReduction.pdf)*** 2016. _[Self-published.](http://dx.doi.org/10.13140/RG.2.2.27937.11367)_\
 Analyzes the penchant to reduce human nature to its physical constituent parts motivated by a resistance to abstracting away from the richness of mental life and phenomenal consciousness.
 
 ***[Justified Conscientious Objection.](https://fpdevita.github.io/Papers/Bioethics/JustifiedConscientiousObjection.pdf)*** 2015. _[Self-published.](http://dx.doi.org/10.13140/RG.2.2.29967.09121)_\
