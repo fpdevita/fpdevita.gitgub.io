@@ -1,7 +1,7 @@
 #### Bioethics graduate student at [NYU](https://wp.nyu.edu/centerforbioethics/) studying rationality, decision making, neuroethics, and ethics of emerging technologies.
 
 [fpd216@nyu.edu](mailto:fpd216@nyu.edu)\
-[CV](https://fpdevita.github.io/CV/FrankPDeVita08.2025.pdf)\
+[CV](https://fpdevita.github.io/CV/FrankPDeVita8.2025.pdf)\
 <br>
 
 #### Papers
@@ -45,7 +45,7 @@ Presentation and analysis of cases in which healthcare professionals may be just
 ***[Amyotrophic Lateral Sclerosis and Personalized Medicine.](https://fpdevita.github.io/Papers/Biotech/ALSandPersonalizedMedicine.pdf)*** 2015. _[Self-published.](http://dx.doi.org/10.13140/RG.2.2.19548.50563)_\
 Traces the history, etiology, treatment, and emerging research of ALS.
 
-***[Bioequivalence and Biosimilar Drug Development.](https://fpdevita.github.io/Papers/Biotech/Bioequivalence.pdf).*** 2015. _[Self-published.](http://dx.doi.org/10.13140/RG.2.2.10430.80965)_\
+***[Bioequivalence and Biosimilar Drug Development.](https://fpdevita.github.io/Papers/Biotech/Bioequivalence.pdf)*** 2015. _[Self-published.](http://dx.doi.org/10.13140/RG.2.2.10430.80965)_\
 Exposition of the concepts underlying generic biologic drugs and intellectual property laws governing their patenting and development.
 
 ***[America Invents? Against First-to-File Patenting in the United States.](https://fpdevita.github.io/Papers/Biotech/AmericaInvents.pdf)*** 2015. _[Self-published.](http://dx.doi.org/10.13140/RG.2.2.26480.57608)_\
