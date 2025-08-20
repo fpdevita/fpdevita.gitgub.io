@@ -1,6 +1,6 @@
-#### I'm a graduate student in Bioethics at [NYU](https://wp.nyu.edu/centerforbioethics/) studying rationality, decision making, neuroethics, and ethics of emerging technologies.
+#### I'm a graduate student in Bioethics at [NYU](https://wp.nyu.edu/centerforbioethics/) researching rationality, decision making, neuroethics, and ethics of emerging technologies.
 
-Before that I studied Biotechnology at [Columbia](https://www.gsas.columbia.edu/content/biotechnology), and before that [Philosophy](https://www.bu.edu/academics/cas/programs/philosophy/ba/) and [Biology](https://www.bu.edu/academics/cas/programs/biology/ba-cell-molecular-genetics/) at Boston University.
+I studied Biotechnology at [Columbia](https://www.gsas.columbia.edu/content/biotechnology), and [Philosophy](https://www.bu.edu/academics/cas/programs/philosophy/ba/) and [Biology](https://www.bu.edu/academics/cas/programs/biology/ba-cell-molecular-genetics/) at Boston University before that.
 
 [fpd216@nyu.edu](mailto:fpd216@nyu.edu)\
 [CV](https://fpdevita.github.io/CV/FrankPDeVita8.2025.pdf)\
